@@ -1,0 +1,14 @@
+
+node_modules/
+
+
+cert/
+
+
+.env
+
+
+*.log
+
+
+.DS_Store
